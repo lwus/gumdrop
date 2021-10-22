@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/merkle-airdrop/static/css/main.389b4b4b.chunk.css",
-    "main.js": "/merkle-airdrop/static/js/main.ac078c0e.chunk.js",
-    "main.js.map": "/merkle-airdrop/static/js/main.ac078c0e.chunk.js.map",
+    "main.js": "/merkle-airdrop/static/js/main.5a073ebd.chunk.js",
+    "main.js.map": "/merkle-airdrop/static/js/main.5a073ebd.chunk.js.map",
     "runtime-main.js": "/merkle-airdrop/static/js/runtime-main.7c819364.js",
     "runtime-main.js.map": "/merkle-airdrop/static/js/runtime-main.7c819364.js.map",
     "static/css/2.0716d335.chunk.css": "/merkle-airdrop/static/css/2.0716d335.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.0716d335.chunk.css",
     "static/js/2.7b253928.chunk.js",
     "static/css/main.389b4b4b.chunk.css",
-    "static/js/main.ac078c0e.chunk.js"
+    "static/js/main.5a073ebd.chunk.js"
   ]
 }
