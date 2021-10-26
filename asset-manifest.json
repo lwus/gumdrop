@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/merkle-airdrop/static/css/main.dae76bef.chunk.css",
-    "main.js": "/merkle-airdrop/static/js/main.9d8a93df.chunk.js",
-    "main.js.map": "/merkle-airdrop/static/js/main.9d8a93df.chunk.js.map",
-    "runtime-main.js": "/merkle-airdrop/static/js/runtime-main.a8929108.js",
-    "runtime-main.js.map": "/merkle-airdrop/static/js/runtime-main.a8929108.js.map",
+    "main.js": "/merkle-airdrop/static/js/main.10c3578a.chunk.js",
+    "main.js.map": "/merkle-airdrop/static/js/main.10c3578a.chunk.js.map",
+    "runtime-main.js": "/merkle-airdrop/static/js/runtime-main.4c595fdd.js",
+    "runtime-main.js.map": "/merkle-airdrop/static/js/runtime-main.4c595fdd.js.map",
     "static/css/2.0716d335.chunk.css": "/merkle-airdrop/static/css/2.0716d335.chunk.css",
-    "static/js/2.dad69778.chunk.js": "/merkle-airdrop/static/js/2.dad69778.chunk.js",
-    "static/js/2.dad69778.chunk.js.map": "/merkle-airdrop/static/js/2.dad69778.chunk.js.map",
-    "static/js/3.f380de2a.chunk.js": "/merkle-airdrop/static/js/3.f380de2a.chunk.js",
-    "static/js/3.f380de2a.chunk.js.map": "/merkle-airdrop/static/js/3.f380de2a.chunk.js.map",
+    "static/js/2.32a76d59.chunk.js": "/merkle-airdrop/static/js/2.32a76d59.chunk.js",
+    "static/js/2.32a76d59.chunk.js.map": "/merkle-airdrop/static/js/2.32a76d59.chunk.js.map",
+    "static/js/3.056f0ecc.chunk.js": "/merkle-airdrop/static/js/3.056f0ecc.chunk.js",
+    "static/js/3.056f0ecc.chunk.js.map": "/merkle-airdrop/static/js/3.056f0ecc.chunk.js.map",
     "index.html": "/merkle-airdrop/index.html",
     "static/css/2.0716d335.chunk.css.map": "/merkle-airdrop/static/css/2.0716d335.chunk.css.map",
     "static/css/main.dae76bef.chunk.css.map": "/merkle-airdrop/static/css/main.dae76bef.chunk.css.map",
-    "static/js/2.dad69778.chunk.js.LICENSE.txt": "/merkle-airdrop/static/js/2.dad69778.chunk.js.LICENSE.txt",
+    "static/js/2.32a76d59.chunk.js.LICENSE.txt": "/merkle-airdrop/static/js/2.32a76d59.chunk.js.LICENSE.txt",
     "static/media/index.css": "/merkle-airdrop/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
     "static/media/wallet.c746d144.less": "/merkle-airdrop/static/media/wallet.c746d144.less"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8929108.js",
+    "static/js/runtime-main.4c595fdd.js",
     "static/css/2.0716d335.chunk.css",
-    "static/js/2.dad69778.chunk.js",
+    "static/js/2.32a76d59.chunk.js",
     "static/css/main.dae76bef.chunk.css",
-    "static/js/main.9d8a93df.chunk.js"
+    "static/js/main.10c3578a.chunk.js"
   ]
 }
