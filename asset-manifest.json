@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gumdrop/static/css/main.dae76bef.chunk.css",
-    "main.js": "/gumdrop/static/js/main.a95dfa6c.chunk.js",
-    "main.js.map": "/gumdrop/static/js/main.a95dfa6c.chunk.js.map",
+    "main.js": "/gumdrop/static/js/main.2555ccec.chunk.js",
+    "main.js.map": "/gumdrop/static/js/main.2555ccec.chunk.js.map",
     "runtime-main.js": "/gumdrop/static/js/runtime-main.f36408f2.js",
     "runtime-main.js.map": "/gumdrop/static/js/runtime-main.f36408f2.js.map",
     "static/css/2.2983d043.chunk.css": "/gumdrop/static/css/2.2983d043.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.2983d043.chunk.css",
     "static/js/2.957e74a7.chunk.js",
     "static/css/main.dae76bef.chunk.css",
-    "static/js/main.a95dfa6c.chunk.js"
+    "static/js/main.2555ccec.chunk.js"
   ]
 }
