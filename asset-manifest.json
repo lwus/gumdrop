@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/gumdrop/static/css/main.eb603de7.chunk.css",
-    "main.js": "/gumdrop/static/js/main.7fefe743.chunk.js",
-    "main.js.map": "/gumdrop/static/js/main.7fefe743.chunk.js.map",
+    "main.js": "/gumdrop/static/js/main.c4038322.chunk.js",
+    "main.js.map": "/gumdrop/static/js/main.c4038322.chunk.js.map",
     "runtime-main.js": "/gumdrop/static/js/runtime-main.278932b3.js",
     "runtime-main.js.map": "/gumdrop/static/js/runtime-main.278932b3.js.map",
     "static/css/2.b5f8c474.chunk.css": "/gumdrop/static/css/2.b5f8c474.chunk.css",
-    "static/js/2.7e9fd589.chunk.js": "/gumdrop/static/js/2.7e9fd589.chunk.js",
-    "static/js/2.7e9fd589.chunk.js.map": "/gumdrop/static/js/2.7e9fd589.chunk.js.map",
+    "static/js/2.3a8d5332.chunk.js": "/gumdrop/static/js/2.3a8d5332.chunk.js",
+    "static/js/2.3a8d5332.chunk.js.map": "/gumdrop/static/js/2.3a8d5332.chunk.js.map",
     "static/js/3.3ecfbc0f.chunk.js": "/gumdrop/static/js/3.3ecfbc0f.chunk.js",
     "static/js/3.3ecfbc0f.chunk.js.map": "/gumdrop/static/js/3.3ecfbc0f.chunk.js.map",
     "index.html": "/gumdrop/index.html",
     "static/css/2.b5f8c474.chunk.css.map": "/gumdrop/static/css/2.b5f8c474.chunk.css.map",
     "static/css/main.eb603de7.chunk.css.map": "/gumdrop/static/css/main.eb603de7.chunk.css.map",
-    "static/js/2.7e9fd589.chunk.js.LICENSE.txt": "/gumdrop/static/js/2.7e9fd589.chunk.js.LICENSE.txt",
+    "static/js/2.3a8d5332.chunk.js.LICENSE.txt": "/gumdrop/static/js/2.3a8d5332.chunk.js.LICENSE.txt",
     "static/media/index.css": "/gumdrop/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
     "static/media/wallet.c746d144.less": "/gumdrop/static/media/wallet.c746d144.less"
   },
   "entrypoints": [
     "static/js/runtime-main.278932b3.js",
     "static/css/2.b5f8c474.chunk.css",
-    "static/js/2.7e9fd589.chunk.js",
+    "static/js/2.3a8d5332.chunk.js",
     "static/css/main.eb603de7.chunk.css",
-    "static/js/main.7fefe743.chunk.js"
+    "static/js/main.c4038322.chunk.js"
   ]
 }
