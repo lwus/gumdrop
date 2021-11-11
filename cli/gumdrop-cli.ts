@@ -39,7 +39,7 @@ import {
   validateTransferClaims,
   validateCandyClaims,
   validateEditionClaims,
-} from "./utils/claimant";
+} from "../src/utils/claimant";
 import {
   AuthKeys,
   DropInfo,
@@ -50,20 +50,20 @@ import {
   distributeWallet,
   formatDropMessage,
   urlAndHandleFor,
-} from "./utils/communication";
+} from "../src/utils/communication";
 import {
   CANDY_MACHINE_ID,
   GUMDROP_TEMPORAL_SIGNER,
   GUMDROP_DISTRIBUTOR_ID,
   SPL_ASSOCIATED_TOKEN_ACCOUNT_PROGRAM_ID,
   TOKEN_PROGRAM_ID,
-} from "./utils/ids";
+} from "../src/utils/ids";
 import {
   MerkleTree,
-} from "./utils/merkleTree";
+} from "../src/utils/merkleTree";
 import {
   sendSignedTransaction,
-} from "./utils/transactions";
+} from "../src/utils/transactions";
 
 program.version('0.0.1');
 
