@@ -1,7 +1,7 @@
 # Gumdrop
 
-Continued development will be merged into
-https://github.com/metaplex-foundation/metaplex.
+Continued development will be at https://github.com/lwus/metaplex and merged
+into https://github.com/metaplex-foundation/metaplex.
 
-The previous Gumdrop site will remain at https://lwus.github.io/gumdrop/ and a
-new example deployment can be found at https://lwus.github.io/metaplex/.
+The latest example deployment can probably be found at
+https://lwus.github.io/metaplex/.

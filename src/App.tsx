@@ -32,6 +32,18 @@ const About = (
 ) => {
   const summary = (
     <Stack spacing={1}>
+      <div style={{fontSize: 25}}>
+      This repository has been archived! Find the latest example deployment
+      at{WHITESPACE}
+      <HyperLink href="https://lwus.github.io/metaplex/">
+        https://lwus.github.io/metaplex/
+      </HyperLink>.
+      </div>
+
+      <br />
+      <br />
+      <br />
+
       <div>
       The Gumdrop program leverages the Solana blockchain and merkle trees to
       facilitate airdrops to a large number of whitelisted users at a low cost
